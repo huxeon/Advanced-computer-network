@@ -38,13 +38,13 @@
   caption: [示例表格],
 ) <tab:abc>
 
-这是对@tab:abc 的引用。
+这是对#[@tab:abc]的引用。
 
 $ F(n) = F(n-1) + F(n-2) $ <equ:fib>
 
-这是对@equ:fib 的引用。
+这是对#[@equ:fib]的引用。
 
-这是对参考文献@redoli2025kubernetescloudvsbare 的引用。
+这是对参考文献#[@redoli2025kubernetescloudvsbare]的引用。
 
 这是脚注#footnote[示例脚注]
 

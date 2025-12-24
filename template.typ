@@ -6,6 +6,7 @@
 #let font-math = ("Cambria Math", "SimSun")
 
 #let S = h(0.25em, weak: true)
+#let D = h(-2em, weak: true)
 
 #let mark1(n) = numbering("（1）", n)
 #let mark2(n) = numbering("1）", n)
