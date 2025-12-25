@@ -89,7 +89,7 @@ $f(n)$
 $ F(n) = F(n-1) + F(n-2) $ <equ:demo>
 ```
 
-其中行间公式会自动编号。有关表格更加详细的内容，可以参考 Typst 官方文档的 [math](https://typst.app/docs/reference/math/) 部分。
+其中行间公式会自动编号。有关公式更加详细的内容，可以参考 Typst 官方文档的 [math](https://typst.app/docs/reference/math/) 部分。
 
 ### 脚注
 
