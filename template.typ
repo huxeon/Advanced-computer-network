@@ -22,6 +22,7 @@
     first-line-indent: (amount: 2em, all: true),
     leading: 1.5em,
     spacing: 1.5em,
+    justify: true,
   )
   set std.bibliography(style: "gb-7714-2015-numeric")
   set text(lang: "zh", region: "cn", font: font-sun, size: zh(5))
@@ -48,6 +49,7 @@
   show figure.caption: set text(font: font-hei, size: zh(5))
   show figure.where(kind: table): set figure.caption(position: top)
   show figure.where(kind: table): set text(font: font-sun, size: zh(5.5))
+  show table: set par(leading: 0.65em)
   set table(align: center + horizon, stroke: 0.5pt)
 
   set math.equation(numbering: "公式（1）")
